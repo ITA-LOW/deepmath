@@ -26,5 +26,5 @@ Para rodar o código, basta ter o Python 3 instalado em sua máquina e as biblio
 1. Clone este repositório:
 
 ```bash
-[git clone https://github.com/seu-usuario/atrator-lorenz.git](https://github.com/ITA-LOW/deepmath.git)
+git clone https://github.com/seu-usuario/atrator-lorenz.git
 
