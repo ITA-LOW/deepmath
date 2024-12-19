@@ -3,7 +3,7 @@
 Este repositório apresenta um código em Python que ilustra a trajetória do **atrator de Lorenz**, resolvendo suas equações diferenciais com três métodos numéricos distintos: Euler, Heun e Runge-Kutta de 4ª ordem (RK4). O atrator de Lorenz é conhecido por seu comportamento dinâmico não-linear e caótico.
 ## Objetivo
 
-O objetivo deste código é resolver numericamente o sistema de equações diferenciais que descrevem o atrator de Lorenz e visualizar suas trajetórias utilizando três métodos numéricos clássicos. As trajetórias são plotadas em gráficos 3D para demonstrar a diferença entre os métodos utilizados.
+O objetivo deste trabalho é resolver numericamente o sistema de equações diferenciais que descrevem o atrator de Lorenz e visualizar suas trajetórias utilizando três métodos numéricos clássicos. As trajetórias são plotadas em gráficos 3D para demonstrar a diferença entre os métodos utilizados.
 
 ## Estrutura do Código
 
