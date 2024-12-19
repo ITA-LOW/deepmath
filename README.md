@@ -18,12 +18,12 @@ O código é dividido em várias partes principais:
 
 3. **Visualização**: As trajetórias obtidas pelos três métodos são plotadas em gráficos 3D utilizando a biblioteca `matplotlib`.
 
-## Como Rodar o Código
+## Como Rodar o Código no Linux
 
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/atrator-lorenz.git
+git clone https://github.com/ITA-LOW/deepmath.git
 ```
 2. Crie um ambiente virtual
 
