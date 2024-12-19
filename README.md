@@ -20,8 +20,6 @@ O código é dividido em várias partes principais:
 
 ## Como Rodar o Código
 
-Para rodar o código, basta ter o Python 3 instalado em sua máquina e as bibliotecas `numpy` e `matplotlib` configuradas.
-
 1. Clone este repositório:
 
 ```bash
