@@ -29,3 +29,36 @@ git clone https://github.com/seu-usuario/atrator-lorenz.git
 ```
 2. Crie um ambiente virtual
 
+```bash
+python3 -m venv deepmath
+```
+
+3. Instale as bibliotecas
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Rode o primeiro código
+
+```bash
+python atrator_lorenz.py
+
+```
+A saída esperada é o gráfico com as 3 implementações. Os gráficos são interativos.
+
+5. Rode o segundo código
+
+```bash
+python erro_global.py
+```
+
+A saída esperada é uma informação no terminal.
+
+6. Rode o terceiro código
+
+```bash
+python perturbacoes.py
+```
+
+A saída esperada é um gráfico mostrando a divergência na trajetória ao inserir pequenas perturbações no valor inicial.
