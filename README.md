@@ -60,3 +60,11 @@ python perturbacoes.py
 ```
 
 A saída esperada é um gráfico mostrando a divergência na trajetória ao inserir pequenas perturbações no valor inicial.
+
+7. Rode o quarto código
+
+```bash
+python residuo.py
+```
+
+A saída esperada é um gráfico contendo a evolução dos resíduos a cada instante de simulação
