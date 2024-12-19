@@ -26,4 +26,6 @@ Para rodar o código, basta ter o Python 3 instalado em sua máquina e as biblio
 
 ```bash
 git clone https://github.com/seu-usuario/atrator-lorenz.git
+```
+2. Crie um ambiente virtual
 
